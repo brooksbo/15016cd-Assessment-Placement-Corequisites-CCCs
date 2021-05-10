@@ -13,4 +13,4 @@ This repo is dedicated to code pertaining to the data for this forthcoming publi
 More specifically:
 - Managing/comparing data from the multitude of data sources used in our study
 
-Will link publication once published
+[Link to the published report!](https://www.ppic.org/wp-content/uploads/a-new-era-of-student-access-at-californias-community-colleges-november-2020.pdf "A New Era of Student Access at California's Community Colleges")
